@@ -1,1 +1,1 @@
-# TrabajoPr-cticoParadigmasdeProgramaci-n
+# TrabajoPracticoParadigmasdeProgramacion
